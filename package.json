@@ -1,0 +1,15 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "Landing in school",
+  "main": "server.js",
+  "repository": "https://github.com/Mishawaka/landing",
+  "author": "Mishawaka <budishmishka@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

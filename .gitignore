@@ -1,2 +1,4 @@
 node_modules
 vendor/fontawesome-free
+yarn.lock
+package-lock.json
